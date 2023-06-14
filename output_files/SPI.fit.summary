@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jun 14 20:37:33 2023
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : SPI
+Top-level Entity Name : SPI
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 56 / 10,320 ( < 1 % )
+    Total combinational functions : 31 / 10,320 ( < 1 % )
+    Dedicated logic registers : 44 / 10,320 ( < 1 % )
+Total registers : 44
+Total pins : 23 / 180 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
